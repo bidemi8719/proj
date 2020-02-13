@@ -1,2 +1,1 @@
 # proj
-Machine learning project
